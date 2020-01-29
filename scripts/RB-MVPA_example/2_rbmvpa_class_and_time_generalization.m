@@ -7,6 +7,10 @@ person = {
     ...
     }; 
 
+% here is the list of "correct" conditions fro two session separately
+% the last digit means 0 - unrecognized; 1 - recognized
+% so conditions 11x 12x 13x 14x differ in first and second sessions
+
 cond = {'110';
     '120';
     '130';
